@@ -3,8 +3,4 @@ return {
         Name = "Beat Hvh",
         Config = "Magic Bullet : true Rapid Fire : true",
     },
-    Cfg2 = {
-        Name = "Juju Battel",
-        Config = "Magic Bullet : true",
-    },
 }
