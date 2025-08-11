@@ -1,7 +1,8 @@
 return {
     Cfg1 = {
         Name = "Hvh Config by Dino",
-        Config = "53: bool(true)
+        Config = [[
+53: bool(true)
 43: bool(true)
 51: bool(true)
 41: string(Unkillable)
@@ -60,6 +61,7 @@ MenuKey: Enum.KeyCode.End
 20: number(0.2)
 12: bool(true)
 22: bool(true)
-10: bool(true)",
+10: bool(true)
+        ]],
     },
 }
