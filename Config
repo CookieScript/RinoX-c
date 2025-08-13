@@ -1,6 +1,7 @@
 return {
     Cfg1 = {
-        Name = "Water cfg made by dino",
+        Name = "Water cfg",
+        Owner = "Dino",
         Config = [[53: rgb(0.6666666865348816,0.4097365140914917,0.7893384695053101,1)
 43: rgb(0.6357304453849792,0.4784826338291168,0.7968655824661255,1)
 73: bool(true)
